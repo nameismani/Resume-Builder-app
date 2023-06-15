@@ -457,7 +457,7 @@ code {
 
 I will try to attache image of the app in this repo!
 
-[Screenshot (55)](https://github.com/nameismani/Resume-Builder-app/assets/120552594/39443f3d-4ecc-4915-946c-3663556a2b16)
-![Screenshot (56)](https://github.com/nameismani/Resume-Builder-app/assets/120552594/a839507b-eb6e-460c-a486-0f02972c9baa)
-![Screenshot (57)](https://github.com/nameismani/Resume-Builder-app/assets/120552594/3615e057-202d-4ee3-b712-fcb0b854698a)
+![Screenshot (62)](https://github.com/nameismani/Resume-Builder-app/assets/120552594/78752eba-8817-4796-ae11-7165f085e1e4)
+![Screenshot (60)](https://github.com/nameismani/Resume-Builder-app/assets/120552594/069b0fa3-016e-495b-b9fe-8b0dcfa9fd79)
+![Screenshot (61)](https://github.com/nameismani/Resume-Builder-app/assets/120552594/03e69cd8-d5b2-4eac-9da3-17be6324ecec)
 
