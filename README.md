@@ -1,5 +1,7 @@
 # Resume-Builder-app
 
+##Note I am added the screenshot of the app at the last of this README.md file. You can see the design of the app in that
+
 "Hello, I wanted to apologize for the delay in submitting the completed task. Over the past two days, I have been quite busy. As I am currently in the learning stage, I put forth my best effort to develop the Resume Builder app. Throughout the development process, I learned a lot and I'm grateful for the opportunity you gave me. In this project, I decided not to use Bootstrap because I believed I could create a better app using CSS alone. This allowed me to gain more experience with CSS styling. Additionally, I learned about the 'react-tag-input' library and its implementation in the app.
 
 I must admit that I have only completed around 60% of the task and I am unsure about the intended functionality of the app after clicking the submit button. It seems like there should be some action or behavior associated with it, such as saving the resume data or navigating to another page. To accomplish seamless navigation within the app without causing a full page reload, React Router can be 
